@@ -8,9 +8,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -40,3 +37,20 @@ List any prerequisites that need to be installed or set up before the project ca
 
    ```sh
    git clone https://github.com/Sandesh2357/Recipe-Management-System.git
+
+### Usage
+
+- **Create an Account:** To post your own recipes and interact with the community, you'll need to create an account. Click on the "Sign Up" link on the app's homepage.
+
+- **Explore and Share Recipes:** Once you're logged in, you can start exploring recipes posted by other users. You can also create and share your own recipes by clicking the "Create Recipe" button.
+
+- **Engage with the Community:** Leave comments, rate recipes, and follow other users to build connections within the culinary community.
+
+Now you're ready to embark on your culinary journey with the Recipe Sharing Web App. Enjoy exploring, sharing, and connecting with fellow food enthusiasts!
+
+ ## Author
+
+- **kawatwad sandesh**
+  - Email: [sandeshkawatwad6@gmail.com](sandeshkawatwad6@gmail.com)
+    
+
