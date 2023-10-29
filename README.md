@@ -31,7 +31,7 @@ The Recipe Sharing Web App has been deployed on AWS, and you can access it by fo
 
 List any prerequisites that need to be installed or set up before the project can be run. For example:
 
--Swagger UI
+- Swagger UI
 - MySQL
 
 ### Installation
@@ -39,4 +39,4 @@ List any prerequisites that need to be installed or set up before the project ca
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Sandesh2357/Recipe-Management-System.git
